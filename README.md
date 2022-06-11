@@ -1,2 +1,2 @@
-# TCC
-Repositório com códigos criados durante o desenvolvimento do meu Trabalho de Conclusão de Curso (TCC).
+# Stochastic Process
+This project has some scripts I developed while studying stochastic process.
