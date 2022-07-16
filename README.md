@@ -5,7 +5,6 @@ This project has some scripts I developed while studying stochastic processes.
 This script has the R code implementation for a simulation of a Poisson process and some variants of it.
 
 ## processos-markovianos-de-saltos.R
-This script has the R code implementation for a markov process composed by two markov processes.
+This script has the R code implementation for a markov process composed by two markov processes, as described below (pt-BR).
 
-## processos-markovianos-de-saltos.png
-Theoretical description (pt-BR) of the code implemented in processos-markovianos-de-saltos.R.
+![processos-markovianos-de-saltos.png]
