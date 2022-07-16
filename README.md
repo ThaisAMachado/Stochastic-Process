@@ -7,4 +7,4 @@ This script has the R code implementation for a simulation of a Poisson process 
 ## processos-markovianos-de-saltos.R
 This script has the R code implementation for a markov process composed by two markov processes, as described below (pt-BR).
 
-![](processos-markovianos-de-saltos.png)
+![][processos-markovianos-de-saltos.png]
